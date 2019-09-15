@@ -3,5 +3,5 @@
 ## example
 ![yet.jpg](https://github.com/jealousMr/sss/blob/master/example.jpg)
 > 论文引用：[Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)
-> 应用样例：[artist](http://www.jeafoo.top)
+>> 应用样例：[artist](http://www.jeafoo.top)
 
